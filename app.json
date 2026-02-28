@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "DosaHub",
+    "slug": "dosahub",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFF8E1"
+    },
+    "android": {
+      "package": "com.dosahub.app"
+    }
+  }
+}
